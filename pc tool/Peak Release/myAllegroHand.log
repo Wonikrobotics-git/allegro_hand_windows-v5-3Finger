@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Peak Release\) contains files shared from another project (libBHand.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  myAllegroHand.cpp
+  Generating code
+  19 of 30 functions (63.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  myAllegroHand.vcxproj -> C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-14. bhand_visual_studio_20241031_3Finger\pc tool\Peak Release\myAllegroHand.exe
