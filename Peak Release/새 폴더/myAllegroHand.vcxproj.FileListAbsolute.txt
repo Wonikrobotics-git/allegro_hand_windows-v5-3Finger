@@ -1,0 +1,2 @@
+C:\Users\kimch\Downloads\allegro_hand_windows_v4-master\Peak Debug\myAllegroHand.exe
+C:\allegrohand\3-1. bhand_visual_studio_20231016\pc tool\Peak Release\myAllegroHand.exe
